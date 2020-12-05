@@ -9,7 +9,7 @@ router.get('/', (req, res) => {
   res.status(200).send(moviesObject);
 });
 
-//get a movie
+
 router.get('/:id', (req, res) => {
   const key =  parseInt(req.params.id);
   const index = moviesObject.movies.map((movie)=>{
