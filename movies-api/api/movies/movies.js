@@ -10,7 +10,7 @@ export const moviesObject = {
           28,
           12
         ],
-        "id": 24428,
+        "id": 24428 ,
         "original_title": "The Avengers",
         "original_language": "en",
         "backdrop_path": "/hbn46fQaRmlpBuUrEiFqv0GDL6Y.jpg",
